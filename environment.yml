@@ -10,4 +10,4 @@ dependencies:
   - matplotlib
   - imageio
   - scikit-image
-prefix: /home/ningbo/anaconda3/envs/prune
+prefix: /home/anaconda3/envs/prune
