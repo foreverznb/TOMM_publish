@@ -1,0 +1,13 @@
+name: prune
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=12.4
+  - torchaudio
+  - torchvision
+  - matplotlib
+  - imageio
+  - scikit-image
+prefix: /home/ningbo/anaconda3/envs/prune
